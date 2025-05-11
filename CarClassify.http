@@ -1,6 +1,0 @@
-@CarClassify_HostAddress = http://localhost:5095
-
-GET {{CarClassify_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
